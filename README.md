@@ -47,7 +47,7 @@ bash
 Copy
 Edit
 # Clone the repo
-git clone https://github.com/yourusername/studysphere.git
+git clone https://github.com/NagaPrasad123/Study-Sphere/tree/main
 cd studysphere-app
 
 # Install client dependencies
